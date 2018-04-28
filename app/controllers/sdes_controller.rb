@@ -1,0 +1,2 @@
+class SdesController < ApplicationController
+end
